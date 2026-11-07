@@ -1,1 +1,2 @@
+this is a conflict file number 1
 this is a conflict file number 2
